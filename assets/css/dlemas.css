@@ -1,0 +1,61 @@
+body{
+    background: rgb(182, 244, 246);
+    color: #030303;
+    font-family: sans-serif;
+    font-size:15px;
+}
+
+#wrapper{
+    background: #ffffffee;
+    width: 1100px;
+    margin: 20px auto;
+}
+
+#wrapper header{
+    background: #000000;
+    padding: 20px;
+}
+
+#wrapper header hgroup{
+    float: left;
+    color: #ffffff;
+}
+
+#wrapper header nav{
+    float: right;
+    margin-top: 50px;
+}
+
+#wrapper header nav ul{
+    padding: 0;
+    margin: 0;
+}
+
+#wrapper header nav ul li{
+    float: left;
+    list-style: none;
+}
+
+#wrapper header nav ul li a{
+    padding: 15px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.clear{
+    clear: both;
+}
+
+footer{
+    background: #232323;
+    padding: 20px;
+}
+
+footer a{ color: #fff;
+    text-decoration: none;
+}
+
+section
+{ 
+    padding: 20px;
+}
